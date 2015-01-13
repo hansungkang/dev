@@ -1,0 +1,1 @@
+../../usr/share/skel/.bash_profile
